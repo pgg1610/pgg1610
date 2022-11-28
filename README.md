@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on AI methods to augment human creativity and maximize serendipty.
 - 📫 How to reach me: [Twitter](https://twitter.com/mepgg) | [LinkedIn](https://www.linkedin.com/in/pushkarghanekar/) | [Email](pushkarghanekar1610@gmail.com)
--
+
 <!--
 **pgg1610/pgg1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
